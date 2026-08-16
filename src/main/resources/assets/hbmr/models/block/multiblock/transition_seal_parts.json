@@ -1,0 +1,102 @@
+[
+  {
+    "name": "door.006",
+    "safe": "door_006",
+    "model": "block/multiblock/transition_seal_door_006_ber"
+  },
+  {
+    "name": "ring.002",
+    "safe": "ring_002",
+    "model": "block/multiblock/transition_seal_ring_002_ber"
+  },
+  {
+    "name": "door.004",
+    "safe": "door_004",
+    "model": "block/multiblock/transition_seal_door_004_ber"
+  },
+  {
+    "name": "door.003",
+    "safe": "door_003",
+    "model": "block/multiblock/transition_seal_door_003_ber"
+  },
+  {
+    "name": "ring.001",
+    "safe": "ring_001",
+    "model": "block/multiblock/transition_seal_ring_001_ber"
+  },
+  {
+    "name": "door.008",
+    "safe": "door_008",
+    "model": "block/multiblock/transition_seal_door_008_ber"
+  },
+  {
+    "name": "door.002",
+    "safe": "door_002",
+    "model": "block/multiblock/transition_seal_door_002_ber"
+  },
+  {
+    "name": "door.005",
+    "safe": "door_005",
+    "model": "block/multiblock/transition_seal_door_005_ber"
+  },
+  {
+    "name": "Cylinder.011",
+    "safe": "cylinder_011",
+    "model": "block/multiblock/transition_seal_cylinder_011_ber"
+  },
+  {
+    "name": "Cylinder.010",
+    "safe": "cylinder_010",
+    "model": "block/multiblock/transition_seal_cylinder_010_ber"
+  },
+  {
+    "name": "Cylinder.009",
+    "safe": "cylinder_009",
+    "model": "block/multiblock/transition_seal_cylinder_009_ber"
+  },
+  {
+    "name": "Circle",
+    "safe": "circle",
+    "model": "block/multiblock/transition_seal_circle_ber"
+  },
+  {
+    "name": "Cylinder.008",
+    "safe": "cylinder_008",
+    "model": "block/multiblock/transition_seal_cylinder_008_ber"
+  },
+  {
+    "name": "Cylinder.007",
+    "safe": "cylinder_007",
+    "model": "block/multiblock/transition_seal_cylinder_007_ber"
+  },
+  {
+    "name": "Cube.006",
+    "safe": "cube_006",
+    "model": "block/multiblock/transition_seal_cube_006_ber"
+  },
+  {
+    "name": "Cylinder.005",
+    "safe": "cylinder_005",
+    "model": "block/multiblock/transition_seal_cylinder_005_ber"
+  },
+  {
+    "name": "Cylinder.003",
+    "safe": "cylinder_003",
+    "model": "block/multiblock/transition_seal_cylinder_003_ber"
+  },
+  {
+    "name": "Cylinder.001",
+    "safe": "cylinder_001",
+    "model": "block/multiblock/transition_seal_cylinder_001_ber"
+  },
+  {
+    "name": "door",
+    "safe": "door",
+    "model": "block/multiblock/transition_seal_door_ber"
+  },
+  {
+    "name": "frame",
+    "safe": "frame",
+    "model": "block/multiblock/transition_seal_frame_ber"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/chemical_plant.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/chemical_plant",
+    "Texture": "hbmr:block/multiblock/chemical_plant"
+  }
+}

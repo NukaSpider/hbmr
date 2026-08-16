@@ -1,0 +1,15 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/network/rtty.obj",
+  "textures": {
+    "particle": "hbmr:block/rtty_controller",
+    "Texture": "hbmr:block/rtty_controller"
+  },
+  "render_type": "minecraft:cutout",
+  "transform": {
+    "origin": "corner",
+    "translation": [0.5, 0.5, 0.5]
+  }
+}

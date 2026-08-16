@@ -1,0 +1,16 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/secure_access_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/secure_access_door_yellow",
+    "Texture": "hbmr:block/multiblock/secure_access_door_yellow"
+  },
+  "visibility": {
+    "Frame": true,
+    "Door": false
+  }
+}
+

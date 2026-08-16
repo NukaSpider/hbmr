@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/suit_battery.obj",
+  "textures": {
+    "particle": "hbmr:block/suit_battery",
+    "Texture": "hbmr:block/suit_battery"
+  },
+  "render_type": "minecraft:cutout"
+}

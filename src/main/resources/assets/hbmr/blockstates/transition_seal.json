@@ -1,0 +1,20 @@
+﻿{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "hbmr:block/transition_seal",
+                                          "y":  0
+                                      },
+                     "facing=south":  {
+                                          "model":  "hbmr:block/transition_seal",
+                                          "y":  180
+                                      },
+                     "facing=east":  {
+                                         "model":  "hbmr:block/transition_seal",
+                                         "y":  90
+                                     },
+                     "facing=west":  {
+                                         "model":  "hbmr:block/transition_seal",
+                                         "y":  270
+                                     }
+                 }
+}

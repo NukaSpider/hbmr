@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/ore_acidizer.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/ore_acidizer",
+    "Texture": "hbmr:block/multiblock/ore_acidizer"
+  }
+}

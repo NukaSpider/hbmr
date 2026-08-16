@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up":    { "model": "hbmr:block/ror_item_counter" },
+    "facing=down":  { "model": "hbmr:block/ror_item_counter", "x": 180 },
+    "facing=north": { "model": "hbmr:block/ror_item_counter", "x": 90 },
+    "facing=south": { "model": "hbmr:block/ror_item_counter", "x": 90, "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ror_item_counter", "x": 90, "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ror_item_counter", "x": 90, "y": 90 }
+  }
+}

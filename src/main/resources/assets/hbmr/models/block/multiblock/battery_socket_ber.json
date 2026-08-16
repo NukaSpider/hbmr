@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/battery_socket.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/battery_socket",
+    "Texture": "hbmr:block/multiblock/battery_socket"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "multipart": [
+    {
+      "when": { "facing": "north" },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet" }
+    },
+    {
+      "when": { "facing": "south" },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "facing": "west" },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet", "y": 270, "uvlock": true }
+    },
+    {
+      "when": { "facing": "east" },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "facing": "north", "closed": true },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet_lock" }
+    },
+    {
+      "when": { "facing": "south", "closed": true },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet_lock", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "facing": "west", "closed": true },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet_lock", "y": 270, "uvlock": true }
+    },
+    {
+      "when": { "facing": "east", "closed": true },
+      "apply": { "model": "hbmr:block/foundry_spill_outlet_lock", "y": 90, "uvlock": true }
+    }
+  ]
+}

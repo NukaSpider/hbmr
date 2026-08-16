@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/blast_furnace_extension.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/blast_furnace_extension",
+    "Texture": "hbmr:block/multiblock/blast_furnace_extension"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "multipart": [
+    { "when": { "material": "neo" }, "apply": { "model": "hbmr:block/fluid_duct_neo_core" } },
+    { "when": { "material": "neo", "north": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm", "x": 90, "y": 180 } },
+    { "when": { "material": "neo", "south": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm", "x": 90, "y": 0 } },
+    { "when": { "material": "neo", "west": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm", "x": 90, "y": 90 } },
+    { "when": { "material": "neo", "east": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm", "x": 90, "y": 270 } },
+    { "when": { "material": "neo", "up": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm" } },
+    { "when": { "material": "neo", "down": "true" }, "apply": { "model": "hbmr:block/fluid_duct_neo_arm", "x": 180 } },
+    { "when": { "material": "silver" }, "apply": { "model": "hbmr:block/fluid_duct_silver_core" } },
+    { "when": { "material": "silver", "north": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm", "x": 90, "y": 180 } },
+    { "when": { "material": "silver", "south": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm", "x": 90, "y": 0 } },
+    { "when": { "material": "silver", "west": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm", "x": 90, "y": 90 } },
+    { "when": { "material": "silver", "east": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm", "x": 90, "y": 270 } },
+    { "when": { "material": "silver", "up": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm" } },
+    { "when": { "material": "silver", "down": "true" }, "apply": { "model": "hbmr:block/fluid_duct_silver_arm", "x": 180 } },
+    { "when": { "material": "colored" }, "apply": { "model": "hbmr:block/fluid_duct_colored_core" } },
+    { "when": { "material": "colored", "north": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm", "x": 90, "y": 180 } },
+    { "when": { "material": "colored", "south": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm", "x": 90, "y": 0 } },
+    { "when": { "material": "colored", "west": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm", "x": 90, "y": 90 } },
+    { "when": { "material": "colored", "east": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm", "x": 90, "y": 270 } },
+    { "when": { "material": "colored", "up": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm" } },
+    { "when": { "material": "colored", "down": "true" }, "apply": { "model": "hbmr:block/fluid_duct_colored_arm", "x": 180 } }
+  ]
+}

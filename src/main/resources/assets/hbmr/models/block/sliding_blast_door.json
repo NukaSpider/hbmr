@@ -1,0 +1,6 @@
+﻿{
+  "parent": "minecraft:block/air",
+  "textures": {
+    "particle": "hbmr:block/sliding_blast_door"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/rf_cavity" },
+    "facing=south": { "model": "hbmr:block/rf_cavity", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/rf_cavity", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/rf_cavity", "y": 90 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/geiger_counter" },
+    "facing=south": { "model": "hbmr:block/geiger_counter", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/geiger_counter", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/geiger_counter", "y": 90 }
+  }
+}

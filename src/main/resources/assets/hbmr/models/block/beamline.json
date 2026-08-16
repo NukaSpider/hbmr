@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/air",
+  "textures": { "particle": "hbmr:block/multiblock/beamline" }
+}

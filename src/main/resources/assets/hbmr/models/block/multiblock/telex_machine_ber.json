@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/telex_machine.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/telex_machine",
+    "Texture": "hbmr:block/multiblock/telex_machine"
+  },
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/inserter.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/inserter",
+    "Texture": "hbmr:block/multiblock/inserter"
+  }
+}

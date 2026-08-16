@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/ferrouranium_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_ferrouranium",
+    "Texture": "hbmr:block/anvil_ferrouranium"
+  },
+  "render_type": "minecraft:cutout"
+}

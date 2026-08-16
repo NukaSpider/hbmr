@@ -1,0 +1,15 @@
+{
+  "loader": "hbmr:box_cable",
+  "size": 3,
+  "pneumatic": true,
+  "textures": {
+    "particle": "hbmr:block/pneumatic_tube",
+    "straight": "hbmr:block/pneumatic_tube_straight",
+    "junction": "hbmr:block/pneumatic_tube",
+    "curve_tl": "hbmr:block/pneumatic_tube",
+    "curve_tr": "hbmr:block/pneumatic_tube",
+    "curve_bl": "hbmr:block/pneumatic_tube",
+    "curve_br": "hbmr:block/pneumatic_tube",
+    "end": "hbmr:block/pneumatic_tube_connector"
+  }
+}

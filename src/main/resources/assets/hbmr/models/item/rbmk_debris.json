@@ -1,0 +1,5 @@
+{
+  "parent": "minecraft:builtin/entity",
+  "gui_light": "front",
+  "textures": { "particle": "hbmr:block/multiblock/rbmk_debris" }
+}

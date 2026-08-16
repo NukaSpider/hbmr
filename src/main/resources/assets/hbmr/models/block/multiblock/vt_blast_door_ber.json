@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/vt_blast_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/vault/vault_door_3",
+    "Texture": "hbmr:block/multiblock/vault/vault_door_3"
+  }
+}

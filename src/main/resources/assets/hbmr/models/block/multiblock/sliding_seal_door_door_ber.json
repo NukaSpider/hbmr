@@ -1,0 +1,15 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/sliding_seal_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/sliding_seal_door",
+    "Texture": "hbmr:block/multiblock/sliding_seal_door"
+  },
+  "visibility": {
+    "Frame": false,
+    "Door": true
+  }
+}

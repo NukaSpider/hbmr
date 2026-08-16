@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "hbmr:block/deco_red_copper",
+    "base": "hbmr:block/deco_red_copper",
+    "overlay": "hbmr:block/cable_gauge"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "north" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "south" },
+        "west":  { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "west" },
+        "east":  { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "east" },
+        "up":    { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "up" },
+        "down":  { "uv": [0, 0, 16, 16], "texture": "#base", "cullface": "down" }
+      }
+    },
+    {
+      "from": [0, 0, 0],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#overlay", "cullface": "north" }
+      }
+    }
+  ]
+}

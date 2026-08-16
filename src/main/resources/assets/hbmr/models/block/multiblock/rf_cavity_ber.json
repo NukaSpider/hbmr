@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/rf_cavity.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/rf_cavity",
+    "Texture": "hbmr:block/multiblock/rf_cavity"
+  }
+}

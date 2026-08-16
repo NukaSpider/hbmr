@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "hbmr:block/crane_unboxer_top",
+    "front": "hbmr:block/crane_box",
+    "side": "hbmr:block/crane_side_box",
+    "particle": "hbmr:block/crane_side_box"
+  }
+}

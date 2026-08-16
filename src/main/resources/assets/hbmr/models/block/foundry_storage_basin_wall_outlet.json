@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "hbmr:block/foundry_tank_side_outlet",
+    "side": "hbmr:block/foundry_tank_side_outlet",
+    "top": "hbmr:block/foundry_tank_top",
+    "inner": "hbmr:block/foundry_tank_inner"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0], "to": [16, 16, 2],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#side", "cullface": "north" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#inner" },
+        "west":  { "uv": [0, 0, 2, 16], "texture": "#side" },
+        "east":  { "uv": [14, 0, 16, 16], "texture": "#side" },
+        "up":    { "uv": [0, 0, 16, 2], "texture": "#top" }
+      }
+    }
+  ]
+}

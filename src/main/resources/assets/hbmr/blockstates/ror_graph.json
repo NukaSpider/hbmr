@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/ror_graph" },
+    "facing=south": { "model": "hbmr:block/ror_graph", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ror_graph", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ror_graph", "y": 90 }
+  }
+}

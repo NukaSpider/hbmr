@@ -1,0 +1,15 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/beamline.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/beamline",
+    "Texture": "hbmr:block/multiblock/beamline"
+  },
+  "visibility": {
+    "Beamline": true,
+    "BeamlineWindow": false,
+    "BeamlineGlass": false
+  }
+}

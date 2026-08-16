@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "hbmr:block/foundry_tank_side",
+    "top": "hbmr:block/foundry_tank_top",
+    "bottom": "hbmr:block/foundry_tank_bottom",
+    "inner": "hbmr:block/foundry_tank_inner"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0], "to": [16, 2, 16],
+      "faces": {
+        "down": { "uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down" },
+        "up":   { "uv": [0, 0, 16, 16], "texture": "#bottom" }
+      }
+    },
+    {
+      "from": [0, 15.99, 0], "to": [16, 16, 16],
+      "faces": {
+        "up": { "uv": [0, 0, 16, 16], "texture": "#top", "cullface": "up" }
+      }
+    }
+  ]
+}

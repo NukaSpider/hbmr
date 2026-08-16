@@ -1,0 +1,14 @@
+﻿{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/water_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/water_door",
+    "Texture": "hbmr:block/multiblock/water_door"
+  },
+  "visibility": {
+    "Frame": true, "Door_Cube.003": false, "Bolts": false, "Top": false, "Bottom": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hbmr:block/rbmk_irradiation_channel_top",
+    "side": "hbmr:block/rbmk_irradiation_channel_side"
+  }
+}

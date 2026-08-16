@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/exposure_chamber" },
+    "facing=south": { "model": "hbmr:block/exposure_chamber", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/exposure_chamber", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/exposure_chamber", "y": 90 }
+  }
+}

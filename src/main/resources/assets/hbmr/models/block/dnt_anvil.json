@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/dnt_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_dnt",
+    "Texture": "hbmr:block/anvil_dnt"
+  },
+  "render_type": "minecraft:cutout"
+}

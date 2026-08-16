@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "flip_v": false,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/transition_seal_door_005.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/transition_seal",
+    "Texture": "hbmr:block/multiblock/transition_seal"
+  }
+}

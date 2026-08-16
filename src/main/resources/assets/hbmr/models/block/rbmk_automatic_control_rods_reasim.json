@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/air",
+  "textures": { "particle": "hbmr:block/rbmk_automatic_control_rods_reasim_side" }
+}

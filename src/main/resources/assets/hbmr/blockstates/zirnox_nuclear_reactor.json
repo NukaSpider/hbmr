@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/zirnox_nuclear_reactor" },
+    "facing=south": { "model": "hbmr:block/zirnox_nuclear_reactor", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/zirnox_nuclear_reactor", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/zirnox_nuclear_reactor", "y": 90 }
+  }
+}

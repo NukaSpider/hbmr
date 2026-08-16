@@ -1,0 +1,8 @@
+﻿{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "hbmr:block/safe_side",
+    "front": "hbmr:block/safe_front",
+    "side": "hbmr:block/safe_side"
+  }
+}

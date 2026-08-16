@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/power_gauge" },
+    "facing=south": { "model": "hbmr:block/power_gauge", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/power_gauge", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/power_gauge", "y": 90 }
+  }
+}

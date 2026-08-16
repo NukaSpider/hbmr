@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "hbmr:block/foundry_channel_side",
+    "side": "hbmr:block/foundry_channel_side",
+    "top": "hbmr:block/foundry_channel_top",
+    "bottom": "hbmr:block/foundry_channel_bottom",
+    "inner": "hbmr:block/foundry_channel_inner"
+  },
+  "elements": [
+    {
+      "from": [5, 0, 0], "to": [11, 2, 6],
+      "faces": {
+        "up":   { "uv": [5, 0, 11, 6], "texture": "#bottom" },
+        "down": { "uv": [5, 10, 11, 16], "texture": "#bottom", "cullface": "down" }
+      }
+    },
+    {
+      "from": [5, 0, 0], "to": [6, 8, 6],
+      "faces": {
+        "up":   { "uv": [5, 0, 6, 6], "texture": "#top" },
+        "down": { "uv": [5, 10, 6, 16], "texture": "#bottom", "cullface": "down" },
+        "west": { "uv": [0, 8, 6, 16], "texture": "#side" },
+        "east": { "uv": [0, 8, 6, 16], "texture": "#inner" }
+      }
+    },
+    {
+      "from": [10, 0, 0], "to": [11, 8, 6],
+      "faces": {
+        "up":   { "uv": [10, 0, 11, 6], "texture": "#top" },
+        "down": { "uv": [10, 10, 11, 16], "texture": "#bottom", "cullface": "down" },
+        "west": { "uv": [0, 8, 6, 16], "texture": "#inner" },
+        "east": { "uv": [0, 8, 6, 16], "texture": "#side" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "block.reactor_start": {
+    "category": "block",
+    "sounds": ["hbmr:block/reactor_start"]
+  },
+  "block.reactor_stop": {
+    "category": "block",
+    "sounds": ["hbmr:block/reactor_stop"]
+  },
+  "door.sliding_door_opening": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/sliding_door_opening"]
+  },
+  "door.sliding_door_opened": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/sliding_door_opened"]
+  },
+  "door.sliding_door_shut": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/sliding_door_shut"]
+  },
+  "door.wgh_start": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/wgh_start"]
+  },
+  "door.wgh_stop": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/wgh_stop"]
+  },
+  "door.wgh_big_start": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/wgh_big_start"]
+  },
+  "door.wgh_big_stop": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/wgh_big_stop"]
+  },
+  "door.alarm6": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/alarm6"]
+  },
+  "door.garage_move": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/garage_move"]
+  },
+  "door.garage_stop": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/garage_stop"]
+  },
+  "door.qe_sliding_opening": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/qe_sliding_opening"]
+  },
+  "door.qe_sliding_opened": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/qe_sliding_opened"]
+  },
+  "door.qe_sliding_shut": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/qe_sliding_shut"]
+  },
+  "door.sliding_seal_open": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/sliding_seal_open"]
+  },
+  "door.sliding_seal_stop": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/sliding_seal_stop"]
+  },
+  "door.lever": {
+    "category": "block",
+    "sounds": ["hbmr:block/door/lever"]
+  },
+  "block.vault_scrape": {
+    "category": "block",
+    "sounds": ["hbmr:block/vault_scrape"]
+  },
+  "block.vault_thud": {
+    "category": "block",
+    "sounds": ["hbmr:block/vault_thud"]
+  },
+  "door.transition_seal_open": {
+    "category": "block",
+    "sounds": [{"name": "hbmr:block/door/transition_seal_open", "stream": true}]
+  },
+  "block.pipe_placed": {
+    "category": "block",
+    "sounds": ["hbmr:block/pipe_placed"]
+  }
+}

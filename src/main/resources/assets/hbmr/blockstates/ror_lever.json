@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/ror_lever" },
+    "facing=south": { "model": "hbmr:block/ror_lever", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ror_lever", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ror_lever", "y": 90 }
+  }
+}

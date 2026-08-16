@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,covered=false": { "model": "hbmr:block/blast_furnace" },
+    "facing=south,covered=false": { "model": "hbmr:block/blast_furnace", "y": 180 },
+    "facing=west,covered=false":  { "model": "hbmr:block/blast_furnace", "y": 270 },
+    "facing=east,covered=false":  { "model": "hbmr:block/blast_furnace", "y": 90 },
+    "facing=north,covered=true": { "model": "hbmr:block/blast_furnace_covered" },
+    "facing=south,covered=true": { "model": "hbmr:block/blast_furnace_covered", "y": 180 },
+    "facing=west,covered=true":  { "model": "hbmr:block/blast_furnace_covered", "y": 270 },
+    "facing=east,covered=true":  { "model": "hbmr:block/blast_furnace_covered", "y": 90 }
+  }
+}

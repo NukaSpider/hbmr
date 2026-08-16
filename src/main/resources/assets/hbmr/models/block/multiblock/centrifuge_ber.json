@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/centrifuge.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/centrifuge",
+    "Texture": "hbmr:block/multiblock/centrifuge"
+  }
+}

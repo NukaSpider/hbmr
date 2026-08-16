@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/industrial_boiler.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/industrial_boiler",
+    "Texture": "hbmr:block/multiblock/industrial_boiler"
+  }
+}

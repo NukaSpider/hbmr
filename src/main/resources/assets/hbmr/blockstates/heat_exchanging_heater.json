@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/heat_exchanging_heater" },
+    "facing=south": { "model": "hbmr:block/heat_exchanging_heater", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/heat_exchanging_heater", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/heat_exchanging_heater", "y": 90 }
+  }
+}

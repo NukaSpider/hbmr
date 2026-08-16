@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/industrial_generator.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/industrial_generator",
+    "Texture": "hbmr:block/multiblock/industrial_generator"
+  }
+}

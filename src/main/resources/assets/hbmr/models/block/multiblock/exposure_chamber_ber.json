@@ -1,0 +1,15 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/exposure_chamber.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/exposure_chamber",
+    "Texture": "hbmr:block/multiblock/exposure_chamber"
+  },
+  "visibility": {
+    "Chamber": true,
+    "Magnets": true,
+    "Core": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/geiger_counter.obj",
+  "textures": {
+    "particle": "hbmr:block/geiger_counter",
+    "Texture": "hbmr:block/geiger_counter"
+  },
+  "render_type": "minecraft:cutout"
+}

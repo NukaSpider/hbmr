@@ -1,0 +1,20 @@
+﻿{
+    "variants":  {
+                     "facing=north":  {
+                                          "model":  "hbmr:block/fire_door",
+                                          "y":  0
+                                      },
+                     "facing=south":  {
+                                          "model":  "hbmr:block/fire_door",
+                                          "y":  180
+                                      },
+                     "facing=east":  {
+                                         "model":  "hbmr:block/fire_door",
+                                         "y":  90
+                                     },
+                     "facing=west":  {
+                                         "model":  "hbmr:block/fire_door",
+                                         "y":  270
+                                     }
+                 }
+}

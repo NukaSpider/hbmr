@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/ror_indicator_lights" },
+    "facing=south": { "model": "hbmr:block/ror_indicator_lights", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ror_indicator_lights", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ror_indicator_lights", "y": 90 }
+  }
+}

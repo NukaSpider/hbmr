@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/steel_furnace.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/steel_furnace",
+    "Texture": "hbmr:block/multiblock/steel_furnace"
+  }
+}

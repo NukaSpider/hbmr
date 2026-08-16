@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "hbmr:block/foundry_channel_side",
+    "side": "hbmr:block/foundry_channel_side",
+    "top": "hbmr:block/foundry_channel_top",
+    "bottom": "hbmr:block/foundry_channel_bottom",
+    "inner": "hbmr:block/foundry_channel_inner"
+  },
+  "elements": [
+    {
+      "from": [5, 0, 5], "to": [11, 2, 11],
+      "faces": {
+        "down": { "uv": [5, 5, 11, 11], "texture": "#bottom", "cullface": "down" },
+        "up":   { "uv": [5, 5, 11, 11], "texture": "#bottom" }
+      }
+    }
+  ]
+}

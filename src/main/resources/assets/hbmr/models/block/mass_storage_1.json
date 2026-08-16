@@ -1,0 +1,8 @@
+﻿{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "hbmr:block/mass_storage_1_top",
+    "front": "hbmr:block/mass_storage_1_front",
+    "side": "hbmr:block/mass_storage_1_side"
+  }
+}

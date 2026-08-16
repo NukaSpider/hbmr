@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/rbmk_moderated_fuel_channel_reasim" },
+    "facing=south": { "model": "hbmr:block/rbmk_moderated_fuel_channel_reasim", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/rbmk_moderated_fuel_channel_reasim", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/rbmk_moderated_fuel_channel_reasim", "y": 90 }
+  }
+}

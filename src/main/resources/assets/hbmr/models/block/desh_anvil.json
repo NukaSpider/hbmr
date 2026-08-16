@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/desh_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_desh",
+    "Texture": "hbmr:block/anvil_desh"
+  },
+  "render_type": "minecraft:cutout"
+}

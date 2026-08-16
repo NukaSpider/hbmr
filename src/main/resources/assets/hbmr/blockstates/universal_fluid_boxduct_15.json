@@ -1,0 +1,5 @@
+{
+  "multipart": [
+    { "apply": { "model": "hbmr:block/boxduct_white_size4" } }
+  ]
+}

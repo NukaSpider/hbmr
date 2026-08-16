@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/iron_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_iron",
+    "Texture": "hbmr:block/anvil_iron"
+  },
+  "render_type": "minecraft:cutout"
+}

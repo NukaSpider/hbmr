@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/particle_source" },
+    "facing=south": { "model": "hbmr:block/particle_source", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/particle_source", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/particle_source", "y": 90 }
+  }
+}

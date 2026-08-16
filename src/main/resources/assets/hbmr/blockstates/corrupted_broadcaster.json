@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=south": { "model": "hbmr:block/corrupted_broadcaster" },
+    "facing=west":  { "model": "hbmr:block/corrupted_broadcaster", "y": 90 },
+    "facing=north": { "model": "hbmr:block/corrupted_broadcaster", "y": 180 },
+    "facing=east":  { "model": "hbmr:block/corrupted_broadcaster", "y": 270 }
+  }
+}

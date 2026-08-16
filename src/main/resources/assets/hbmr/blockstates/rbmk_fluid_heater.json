@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/rbmk_fluid_heater" },
+    "facing=south": { "model": "hbmr:block/rbmk_fluid_heater", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/rbmk_fluid_heater", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/rbmk_fluid_heater", "y": 90 }
+  }
+}

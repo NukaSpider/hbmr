@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/medium_wooden_electricity_pylon" },
+    "facing=south": { "model": "hbmr:block/medium_wooden_electricity_pylon" },
+    "facing=west":  { "model": "hbmr:block/medium_wooden_electricity_pylon" },
+    "facing=east":  { "model": "hbmr:block/medium_wooden_electricity_pylon" }
+  }
+}

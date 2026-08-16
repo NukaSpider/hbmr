@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/rbmk_debris.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/rbmk_debris",
+    "Texture": "hbmr:block/multiblock/rbmk_debris"
+  }
+}

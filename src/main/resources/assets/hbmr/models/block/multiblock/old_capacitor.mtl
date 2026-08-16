@@ -1,0 +1,10 @@
+newmtl Side
+map_Kd hbmr:block/capacitor_copper_side
+newmtl Top
+map_Kd hbmr:block/capacitor_copper_top
+newmtl Bottom
+map_Kd hbmr:block/capacitor_copper_bottom
+newmtl InnerSide
+map_Kd hbmr:block/capacitor_copper_inner_side
+newmtl InnerTop
+map_Kd hbmr:block/capacitor_copper_inner_top

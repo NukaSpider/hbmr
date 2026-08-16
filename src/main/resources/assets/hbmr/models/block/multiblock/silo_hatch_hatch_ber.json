@@ -1,0 +1,12 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/silo_hatch.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/silo_hatch",
+    "Texture": "hbmr:block/multiblock/silo_hatch"
+  },
+  "visibility": { "Frame": false, "Hatch": true }
+}

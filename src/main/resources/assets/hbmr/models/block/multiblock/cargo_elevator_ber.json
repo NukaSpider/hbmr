@@ -1,0 +1,12 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/cargo_elevator.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/cargo_elevator",
+    "Texture": "hbmr:block/multiblock/cargo_elevator"
+  },
+  "render_type": "minecraft:cutout"
+}

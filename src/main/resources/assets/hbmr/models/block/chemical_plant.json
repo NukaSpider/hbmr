@@ -1,0 +1,1 @@
+{ "parent": "minecraft:block/air", "textures": { "particle": "hbmr:block/multiblock/chemical_plant" } }

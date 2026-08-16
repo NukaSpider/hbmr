@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/fel.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/fel",
+    "Texture": "hbmr:block/multiblock/fel"
+  }
+}

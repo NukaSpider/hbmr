@@ -1,0 +1,8 @@
+newmtl Top
+map_Kd hbmr:block/blast_furnace_top
+
+newmtl Bottom
+map_Kd hbmr:block/blast_furnace_bottom
+
+newmtl Side
+map_Kd hbmr:block/blast_furnace_extension

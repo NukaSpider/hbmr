@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/old_capacitor" },
+    "facing=south": { "model": "hbmr:block/old_capacitor", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/old_capacitor", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/old_capacitor", "y": 90 }
+  }
+}

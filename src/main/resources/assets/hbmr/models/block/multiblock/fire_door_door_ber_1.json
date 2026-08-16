@@ -1,0 +1,16 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "emissive_ambient": false,
+  "model": "hbmr:models/block/multiblock/fire_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/fire_door_black",
+    "Texture": "hbmr:block/multiblock/fire_door_black"
+  },
+  "visibility": {
+    "Frame": false,
+    "Door": true
+  }
+}

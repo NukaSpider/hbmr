@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=up":    { "model": "hbmr:block/electricity_connector" },
+    "facing=down":  { "model": "hbmr:block/electricity_connector" },
+    "facing=north": { "model": "hbmr:block/electricity_connector" },
+    "facing=south": { "model": "hbmr:block/electricity_connector" },
+    "facing=west":  { "model": "hbmr:block/electricity_connector" },
+    "facing=east":  { "model": "hbmr:block/electricity_connector" }
+  }
+}

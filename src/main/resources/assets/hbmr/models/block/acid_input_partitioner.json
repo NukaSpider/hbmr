@@ -1,0 +1,11 @@
+{
+  "textures": {
+    "particle": "hbmr:block/crane_partitioner_side",
+    "side": "hbmr:block/crane_partitioner_side",
+    "back": "hbmr:block/crane_partitioner_back",
+    "top": "hbmr:block/crane_top",
+    "inner": "hbmr:block/crane_splitter_inner",
+    "inner_side": "hbmr:block/crane_splitter_inner_side",
+    "belt": "hbmr:block/crane_splitter_belt"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/rt_generator.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/rt_generator",
+    "Texture": "hbmr:block/multiblock/rt_generator"
+  },
+  "visibility": {
+    "Gen": true,
+    "Connector": false
+  }
+}

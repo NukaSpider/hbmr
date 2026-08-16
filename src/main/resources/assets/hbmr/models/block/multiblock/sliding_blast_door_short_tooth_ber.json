@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/sliding_blast_door_short_tooth.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/sliding_blast_door_short_tooth",
+    "Texture": "hbmr:block/multiblock/sliding_blast_door_short_tooth"
+  }
+}

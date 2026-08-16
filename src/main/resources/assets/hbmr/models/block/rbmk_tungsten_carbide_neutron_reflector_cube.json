@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hbmr:block/rbmk_tungsten_carbide_neutron_reflector_top",
+    "side": "hbmr:block/rbmk_tungsten_carbide_neutron_reflector_side"
+  }
+}

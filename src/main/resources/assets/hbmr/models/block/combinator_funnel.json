@@ -1,0 +1,12 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/combinator_funnel.obj",
+  "textures": {
+    "particle": "hbmr:block/combinator_funnel_side",
+    "Top": "hbmr:block/combinator_funnel_top",
+    "Bottom": "hbmr:block/combinator_funnel_bottom",
+    "Side": "hbmr:block/combinator_funnel_side"
+  },
+  "render_type": "minecraft:cutout"
+}

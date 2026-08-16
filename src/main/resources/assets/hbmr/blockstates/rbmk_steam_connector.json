@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hbmr:block/rbmk_steam_connector" }
+  }
+}

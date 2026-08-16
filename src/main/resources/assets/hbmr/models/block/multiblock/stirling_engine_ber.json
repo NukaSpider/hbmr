@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/stirling_engine.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/stirling_engine",
+    "Texture": "hbmr:block/multiblock/stirling_engine"
+  }
+}

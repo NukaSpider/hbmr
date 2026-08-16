@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/arsenic_bronze_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_arsenic_bronze",
+    "Texture": "hbmr:block/anvil_arsenic_bronze"
+  },
+  "render_type": "minecraft:cutout"
+}

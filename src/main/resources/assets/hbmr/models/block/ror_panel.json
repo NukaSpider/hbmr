@@ -1,0 +1,22 @@
+{
+  "parent": "minecraft:block/block",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "all": "hbmr:block/rbmk_display",
+    "particle": "hbmr:block/rbmk_display"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 4],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#all" },
+        "east":  { "uv": [4, 0, 16, 16], "texture": "#all" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#all" },
+        "west":  { "uv": [0, 0, 12, 16], "texture": "#all" },
+        "up":    { "uv": [0, 4, 16, 16], "texture": "#all" },
+        "down":  { "uv": [0, 0, 16, 12], "texture": "#all" }
+      }
+    }
+  ]
+}

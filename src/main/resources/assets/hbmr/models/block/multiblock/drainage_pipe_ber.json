@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/drainage_pipe.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/drainage_pipe",
+    "Texture": "hbmr:block/multiblock/drainage_pipe"
+  },
+  "render_type": "minecraft:cutout"
+}

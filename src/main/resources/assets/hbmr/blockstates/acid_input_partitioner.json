@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/acid_input_partitioner" },
+    "facing=south": { "model": "hbmr:block/acid_input_partitioner" },
+    "facing=west":  { "model": "hbmr:block/acid_input_partitioner" },
+    "facing=east":  { "model": "hbmr:block/acid_input_partitioner" }
+  }
+}

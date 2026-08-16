@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/fensu" },
+    "facing=south": { "model": "hbmr:block/fensu", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/fensu", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/fensu", "y": 90 }
+  }
+}

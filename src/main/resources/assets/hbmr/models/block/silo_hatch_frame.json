@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "all":  "hbmr:block/silo_hatch_frame"
+                 },
+    "parent":  "minecraft:block/cube_all"
+}

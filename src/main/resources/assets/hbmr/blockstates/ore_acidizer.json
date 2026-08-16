@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/ore_acidizer" },
+    "facing=south": { "model": "hbmr:block/ore_acidizer", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ore_acidizer", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ore_acidizer", "y": 90 }
+  }
+}

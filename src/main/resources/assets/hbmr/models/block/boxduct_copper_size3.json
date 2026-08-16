@@ -1,0 +1,15 @@
+{
+  "loader": "hbmr:box_cable",
+  "size": 3,
+  "fluid": true,
+  "textures": {
+    "particle": "hbmr:block/boxduct_copper_straight",
+    "straight": "hbmr:block/boxduct_copper_straight",
+    "junction": "hbmr:block/boxduct_copper_junction_3",
+    "curve_tl": "hbmr:block/boxduct_copper_curve_tl",
+    "curve_tr": "hbmr:block/boxduct_copper_curve_tr",
+    "curve_bl": "hbmr:block/boxduct_copper_curve_bl",
+    "curve_br": "hbmr:block/boxduct_copper_curve_br",
+    "end": "hbmr:block/boxduct_copper_end"
+  }
+}

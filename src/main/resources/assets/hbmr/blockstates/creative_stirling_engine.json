@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/creative_stirling_engine" },
+    "facing=south": { "model": "hbmr:block/creative_stirling_engine", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/creative_stirling_engine", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/creative_stirling_engine", "y": 90 }
+  }
+}

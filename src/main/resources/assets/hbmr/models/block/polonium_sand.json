@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "all":  "hbmr:block/polonium_sand"
+                 },
+    "parent":  "minecraft:block/cube_all"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/silo_hatch_opener" },
+    "facing=south": { "model": "hbmr:block/silo_hatch_opener", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/silo_hatch_opener", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/silo_hatch_opener", "y": 90 }
+  }
+}

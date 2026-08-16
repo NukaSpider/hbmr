@@ -1,0 +1,6 @@
+newmtl Top
+map_Kd hbmr:block/combinator_funnel_top
+newmtl Bottom
+map_Kd hbmr:block/combinator_funnel_bottom
+newmtl Side
+map_Kd hbmr:block/combinator_funnel_side

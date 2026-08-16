@@ -1,0 +1,14 @@
+{
+  "loader": "hbmr:box_cable",
+  "size": 2,
+  "textures": {
+    "particle": "hbmr:block/boxduct_cable_straight",
+    "straight": "hbmr:block/boxduct_cable_straight",
+    "junction": "hbmr:block/boxduct_cable_junction",
+    "curve_tl": "hbmr:block/boxduct_cable_curve_tl",
+    "curve_tr": "hbmr:block/boxduct_cable_curve_tr",
+    "curve_bl": "hbmr:block/boxduct_cable_curve_bl",
+    "curve_br": "hbmr:block/boxduct_cable_curve_br",
+    "end": "hbmr:block/boxduct_cable_end_2"
+  }
+}

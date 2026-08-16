@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/fire_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/fire_door",
+    "Texture": "hbmr:block/multiblock/fire_door"
+  }
+}

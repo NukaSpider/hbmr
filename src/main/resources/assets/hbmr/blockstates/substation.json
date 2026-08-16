@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/substation" },
+    "facing=south": { "model": "hbmr:block/substation" },
+    "facing=west":  { "model": "hbmr:block/substation" },
+    "facing=east":  { "model": "hbmr:block/substation" }
+  }
+}

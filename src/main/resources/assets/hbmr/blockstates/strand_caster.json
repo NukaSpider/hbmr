@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/strand_caster" },
+    "facing=south": { "model": "hbmr:block/strand_caster", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/strand_caster", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/strand_caster", "y": 90 }
+  }
+}

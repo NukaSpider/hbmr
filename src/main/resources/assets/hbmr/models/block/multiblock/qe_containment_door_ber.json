@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/qe_containment_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/qe_containment_door",
+    "Texture": "hbmr:block/multiblock/qe_containment_door"
+  }
+}

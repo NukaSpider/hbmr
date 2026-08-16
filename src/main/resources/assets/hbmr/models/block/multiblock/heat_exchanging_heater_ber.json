@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/heat_exchanging_heater.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/heat_exchanging_heater",
+    "Texture": "hbmr:block/multiblock/heat_exchanging_heater"
+  }
+}

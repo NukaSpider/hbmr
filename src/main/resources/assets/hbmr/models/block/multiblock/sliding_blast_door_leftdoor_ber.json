@@ -1,0 +1,18 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/sliding_blast_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/sliding_blast_door",
+    "Texture": "hbmr:block/multiblock/sliding_blast_door"
+  },
+  "visibility": {
+    "Frame": false,
+    "LeftDoor": true,
+    "RightDoor": false,
+    "LeftLock": false,
+    "RightLock": false
+  }
+}

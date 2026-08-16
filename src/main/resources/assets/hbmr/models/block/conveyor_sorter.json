@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "hbmr:block/crane_in",
+    "particle": "hbmr:block/crane_in"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "particle": "hbmr:block/cable_neo_opaque",
+    "cable": "hbmr:block/cable_neo_opaque"
+  },
+  "elements": [
+    {
+      "from": [6, 6, 10],
+      "to": [10, 10, 16],
+      "faces": {
+        "north": { "uv": [0, 0, 16, 16], "texture": "#cable" },
+        "south": { "uv": [0, 0, 16, 16], "texture": "#cable" },
+        "west":  { "uv": [0, 0, 16, 16], "texture": "#cable" },
+        "east":  { "uv": [0, 0, 16, 16], "texture": "#cable" },
+        "up":    { "uv": [0, 0, 16, 16], "texture": "#cable" },
+        "down":  { "uv": [0, 0, 16, 16], "texture": "#cable" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/precass.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/precass",
+    "Texture": "hbmr:block/multiblock/precass"
+  }
+}

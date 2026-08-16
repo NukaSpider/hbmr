@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/safe_barrel.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/safe_barrel",
+    "Texture": "hbmr:block/multiblock/safe_barrel"
+  }
+}

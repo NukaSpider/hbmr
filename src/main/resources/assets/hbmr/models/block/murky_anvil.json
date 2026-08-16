@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/murky_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_murky",
+    "Texture": "hbmr:block/anvil_murky"
+  },
+  "render_type": "minecraft:cutout"
+}

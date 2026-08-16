@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/conveyor_sorter" },
+    "facing=south": { "model": "hbmr:block/conveyor_sorter", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/conveyor_sorter", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/conveyor_sorter", "y": 90 }
+  }
+}

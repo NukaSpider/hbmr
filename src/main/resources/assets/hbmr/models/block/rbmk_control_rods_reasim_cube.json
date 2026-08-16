@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "hbmr:block/rbmk_control_rods_reasim_top",
+    "side": "hbmr:block/rbmk_control_rods_reasim_side"
+  }
+}

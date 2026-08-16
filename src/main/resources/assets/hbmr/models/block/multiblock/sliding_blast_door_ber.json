@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/sliding_blast_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/sliding_blast_door",
+    "Texture": "hbmr:block/multiblock/sliding_blast_door"
+  }
+}

@@ -1,0 +1,17 @@
+﻿{
+  "parent": "minecraft:block/air",
+  "textures": {
+    "particle": "hbmr:block/crane_splitter_front_left",
+    "top_left": "hbmr:block/crane_splitter_top_left",
+    "top_right": "hbmr:block/crane_splitter_top_right",
+    "front_left": "hbmr:block/crane_splitter_front_left",
+    "front_right": "hbmr:block/crane_splitter_front_right",
+    "back_left": "hbmr:block/crane_splitter_back_left",
+    "back_right": "hbmr:block/crane_splitter_back_right",
+    "left": "hbmr:block/crane_splitter_left",
+    "right": "hbmr:block/crane_splitter_right",
+    "inner": "hbmr:block/crane_splitter_inner",
+    "inner_side": "hbmr:block/crane_splitter_inner_side",
+    "belt": "hbmr:block/crane_splitter_belt"
+  }
+}

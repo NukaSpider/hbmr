@@ -1,0 +1,8 @@
+﻿{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hbmr:block/iron_crate_top",
+    "top": "hbmr:block/iron_crate_top",
+    "side": "hbmr:block/iron_crate_side"
+  }
+}

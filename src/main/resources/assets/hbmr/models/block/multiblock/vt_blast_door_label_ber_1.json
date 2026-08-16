@@ -1,0 +1,17 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "emissive_ambient": false,
+  "model": "hbmr:models/block/multiblock/vt_blast_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/vault/label_87",
+    "Texture": "hbmr:block/multiblock/vault/label_87"
+  },
+  "visibility": {
+    "Frame": false,
+    "Door": false,
+    "Label": true
+  }
+}

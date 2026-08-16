@@ -1,0 +1,15 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/network/fluid_diode.obj",
+  "textures": {
+    "particle": "hbmr:block/block_steel",
+    "Texture": "hbmr:block/network/fluid_diode"
+  },
+  "render_type": "minecraft:cutout",
+  "transform": {
+    "origin": "corner",
+    "translation": [0.5, 0.0, 0.5]
+  }
+}

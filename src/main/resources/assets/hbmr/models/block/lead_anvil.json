@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/lead_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_lead",
+    "Texture": "hbmr:block/anvil_lead"
+  },
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,10 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/schrabidate_anvil.obj",
+  "textures": {
+    "particle": "hbmr:block/anvil_schrabidate",
+    "Texture": "hbmr:block/anvil_schrabidate"
+  },
+  "render_type": "minecraft:cutout"
+}

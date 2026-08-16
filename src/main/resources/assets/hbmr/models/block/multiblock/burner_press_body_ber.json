@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/burner_press_body.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/press_body",
+    "Texture": "hbmr:block/multiblock/press_body"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/wood_burning_generator.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/wood_burning_generator",
+    "Texture": "hbmr:block/multiblock/wood_burning_generator"
+  }
+}

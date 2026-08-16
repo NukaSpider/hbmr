@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=down":  { "model": "hbmr:block/pipe_anchor" },
+    "facing=up":    { "model": "hbmr:block/pipe_anchor" },
+    "facing=north": { "model": "hbmr:block/pipe_anchor" },
+    "facing=south": { "model": "hbmr:block/pipe_anchor" },
+    "facing=west":  { "model": "hbmr:block/pipe_anchor" },
+    "facing=east":  { "model": "hbmr:block/pipe_anchor" }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/radiation_powered_engine.obj",
+  "textures": {
+    "particle": "minecraft:block/white_concrete",
+    "Texture": "minecraft:block/white_concrete"
+  },
+  "visibility": {
+    "Base": false,
+    "Rotor": false,
+    "Light": true,
+    "Glass": false
+  }
+}

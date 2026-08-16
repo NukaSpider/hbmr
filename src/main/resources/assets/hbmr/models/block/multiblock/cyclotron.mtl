@@ -1,0 +1,10 @@
+newmtl Texture
+map_Kd hbmr:block/multiblock/cyclotron
+newmtl Ashes
+map_Kd hbmr:block/multiblock/cyclotron_ashes
+newmtl Book
+map_Kd hbmr:block/multiblock/cyclotron_book
+newmtl Gavel
+map_Kd hbmr:block/multiblock/cyclotron_gavel
+newmtl Coin
+map_Kd hbmr:block/multiblock/cyclotron_coin

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "hbmr:block/crane_grabber_top",
+    "front": "hbmr:block/crane_pull",
+    "side": "hbmr:block/crane_side_pull",
+    "particle": "hbmr:block/crane_side_pull"
+  }
+}

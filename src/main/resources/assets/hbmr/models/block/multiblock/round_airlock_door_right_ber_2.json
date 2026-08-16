@@ -1,0 +1,14 @@
+﻿{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "shade_quads": false,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/round_airlock_door.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/round_airlock_door_green",
+    "Texture": "hbmr:block/multiblock/round_airlock_door_green"
+  },
+  "visibility": {
+    "Frame": false, "Left": false, "Right": true
+  }
+}

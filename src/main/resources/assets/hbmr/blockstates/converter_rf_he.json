@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/converter_rf_he" },
+    "facing=south": { "model": "hbmr:block/converter_rf_he", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/converter_rf_he", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/converter_rf_he", "y": 90 }
+  }
+}

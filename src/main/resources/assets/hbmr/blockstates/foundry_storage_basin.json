@@ -1,0 +1,39 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "hbmr:block/foundry_storage_basin_center" }
+    },
+    {
+      "when": { "north": "false" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall", "uvlock": true }
+    },
+    {
+      "when": { "north": "true" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall_outlet", "uvlock": true }
+    },
+    {
+      "when": { "east": "false" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "east": "true" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall_outlet", "y": 90, "uvlock": true }
+    },
+    {
+      "when": { "south": "false" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "south": "true" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall_outlet", "y": 180, "uvlock": true }
+    },
+    {
+      "when": { "west": "false" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall", "y": 270, "uvlock": true }
+    },
+    {
+      "when": { "west": "true" },
+      "apply": { "model": "hbmr:block/foundry_storage_basin_wall_outlet", "y": 270, "uvlock": true }
+    }
+  ]
+}

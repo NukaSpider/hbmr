@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "hbmr:block/deco_red_copper",
+    "front": "hbmr:block/cable_diode",
+    "side": "hbmr:block/deco_red_copper",
+    "particle": "hbmr:block/cable_diode"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/cyclotron.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/cyclotron",
+    "Texture": "hbmr:block/multiblock/cyclotron",
+    "Ashes": "hbmr:block/multiblock/cyclotron_ashes",
+    "Book": "hbmr:block/multiblock/cyclotron_book",
+    "Gavel": "hbmr:block/multiblock/cyclotron_gavel",
+    "Coin": "hbmr:block/multiblock/cyclotron_coin"
+  }
+}

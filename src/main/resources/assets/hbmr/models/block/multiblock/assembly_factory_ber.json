@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/assembly_factory.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/assembly_factory",
+    "Texture": "hbmr:block/multiblock/assembly_factory"
+  }
+}

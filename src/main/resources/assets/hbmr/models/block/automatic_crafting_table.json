@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hbmr:block/automatic_crafting_table_bottom",
+    "top": "hbmr:block/automatic_crafting_table_top",
+    "side": "hbmr:block/automatic_crafting_table_side"
+  }
+}

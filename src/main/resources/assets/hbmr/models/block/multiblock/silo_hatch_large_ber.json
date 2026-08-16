@@ -1,0 +1,9 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "model": "hbmr:models/block/multiblock/silo_hatch_large.obj",
+  "textures": {
+    "particle": "hbmr:block/multiblock/silo_hatch_large",
+    "Texture": "hbmr:block/multiblock/silo_hatch_large"
+  }
+}

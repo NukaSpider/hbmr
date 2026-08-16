@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/ror_guage" },
+    "facing=south": { "model": "hbmr:block/ror_guage", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/ror_guage", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/ror_guage", "y": 90 }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "loader": "forge:obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "model": "hbmr:models/block/multiblock/old_capacitor.obj",
+  "textures": {
+    "particle": "hbmr:block/capacitor_copper_side",
+    "Side": "hbmr:block/capacitor_copper_side",
+    "Top": "hbmr:block/capacitor_copper_top",
+    "Bottom": "hbmr:block/capacitor_copper_bottom",
+    "InnerSide": "hbmr:block/capacitor_copper_inner_side",
+    "InnerTop": "hbmr:block/capacitor_copper_inner_top"
+  }
+}

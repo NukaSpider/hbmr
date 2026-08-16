@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/rbmk_debris_blackened" },
+    "facing=south": { "model": "hbmr:block/rbmk_debris_blackened", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/rbmk_debris_blackened", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/rbmk_debris_blackened", "y": 90 }
+  }
+}

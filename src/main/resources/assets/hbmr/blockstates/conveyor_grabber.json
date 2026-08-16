@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "hbmr:block/conveyor_grabber" },
+    "facing=south": { "model": "hbmr:block/conveyor_grabber", "y": 180 },
+    "facing=west":  { "model": "hbmr:block/conveyor_grabber", "y": 270 },
+    "facing=east":  { "model": "hbmr:block/conveyor_grabber", "y": 90 }
+  }
+}

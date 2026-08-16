@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hbmr:block/redstone_power_switch" }
+  }
+}
