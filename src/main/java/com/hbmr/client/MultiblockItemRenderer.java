@@ -414,10 +414,9 @@ public class MultiblockItemRenderer extends BlockEntityWithoutLevelRenderer {
 			pose.translate(-0.5D, -0.35D, 0.0D);
 		}
 		// Microwave OBJ AABB ~[0.11…0.86, 0.79…1.18, −0.76…−0.15].
-		// Empirically: +X here slides left on the GUI isometric; −X / −Y = right / down.
-		// (0.46,…) sat ~1 slot left of center — pull back and drop into the slot.
+		// After common −90° Y (applied first on verts), nudge so GUI AABB center hits slot center.
 		if (type == StructureType.MICROWAVE) {
-			pose.translate(-0.55D, -1.2D, 0.5D);
+			pose.translate(-1.43D, -1.79D, 0.5D);
 		}
 		// Geothermal tower: mesh Y 0…12 — center vertically.
 		if (type == StructureType.GEOTHERMAL_HEAT_EXCHANGER) {
